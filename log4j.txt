@@ -1,0 +1,4 @@
+2021-03-18 22:09:47,860 FATAL [BaseTest] this is fatal 
+2021-03-18 22:09:47,862 ERROR [BaseTest] this is error 
+2021-03-18 22:09:47,862 WARN  [BaseTest] this is warn 
+2021-03-18 22:09:47,863 INFO  [BaseTest] this is info 
